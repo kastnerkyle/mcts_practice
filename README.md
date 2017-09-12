@@ -1,5 +1,5 @@
 # mcts_practice
-A simple simulation of mcts tree search
-A simple MCTS algortithm is applied. 
-The aim is to simulate strategy game resource management.
-A modified UCT function is used as tree policy.
+A simple simulation of mcts tree search<br>
+A not-so correct MCTS algortithm is applied. <br>
+The aim is to simulate strategy game resource management.<br>
+A modified UCT function that averages several varaibles is used as tree policy.<br>
